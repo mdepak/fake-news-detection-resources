@@ -1,6 +1,6 @@
-# Fake News Detection - Resources
 
-This is a complementary list of resources for the book [Detecting Fake News on Social Media](https://www.morganclaypool.com/doi/abs/10.2200/S00926ED1V01Y201906DMK018), Morgan \& Claypool Publishers. 
+
+# Fake News Detection - Resources
 
 ### Datasets
 
@@ -41,14 +41,28 @@ This dataset comprises fake and real news pieces collected from fact-checking we
 
 ### Software
 
- - **Hoaxy**: ([https://hoaxy.iuni.iu.edu/](https://hoaxy.iuni.iu.edu/))
+ - [**Hoaxy**]([https://hoaxy.iuni.iu.edu/](https://hoaxy.iuni.iu.edu/)):
 
- - **FakeNewsTracker** : ([http://blogtrackers.fulton.asu.edu:3000/](http://blogtrackers.fulton.asu.edu:3000/)
+ - [**FakeNewsTracker**](http://blogtrackers.fulton.asu.edu:3000/):
  
- - **Grover**:  (https://grover.allenai.org/)
+ - [**Grover**](https://grover.allenai.org/):
   
- - **dEFEND**: ([http://fooweb-env.qnmbmwmxj3.us-east-2.elasticbeanstalk.com/](http://fooweb-env.qnmbmwmxj3.us-east-2.elasticbeanstalk.com/))
+ - [**dEFEND**](http://fooweb-env.qnmbmwmxj3.us-east-2.elasticbeanstalk.com/):
  
- - **NewsVerify**: ([http://www.newsverify.com/NewsVerifyPro/](http://www.newsverify.com/NewsVerifyPro/))
+ - [**NewsVerify**](http://www.newsverify.com/NewsVerifyPro/):
  
-  - **Claim buster**:  ([https://idir-server2.uta.edu/claimbuster/](https://idir-server2.uta.edu/claimbuster/))
+  - [**Claim buster**](https://idir-server2.uta.edu/claimbuster/):
+
+ 
+ -  [**Open Mind**]([https://openmind.press/](https://openmind.press/)): Open Mind is a Google Chrome extension designed to combat the proliferation of fake news, and increase exposure to opposing viewpoints. It warns users of websites known to publish fake news by providing the user with a large warning screen and links to more reputable sources.
+ 
+ - [**News Guard**]([https://www.newsguardtech.com/](https://www.newsguardtech.com/)): NewsGuard is a chrome extension that uses red/green ratings and labels to help users know which news and information websites to trust. 
+
+ 
+#### Educative tools:
+
+ -  [**Fakey**]([https://fakey.iuni.iu.edu/](https://fakey.iuni.iu.edu/)): This game aims to teach media literacy and study how people interact with misinformation.
+ 
+ -   [**FACTITIOUS**](http://factitious2017.augamestudio.com/#/): The game presents news articles which have been fact-checked by independent fact-checking organizations and challenges players to differentiate news from entertainment from opinion.
+
+
