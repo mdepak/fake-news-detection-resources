@@ -1,5 +1,3 @@
-
-
 # Fake News Detection - Resources
 
 ### Datasets
@@ -20,10 +18,10 @@ This is a large-scale crowd-sourced dataset of around 60 million tweets that cov
 [BuzzFace](https://github.com/gsantia/BuzzFace):
 This dataset is collected by extending the BuzzFeed dataset with comments related to news articles on Facebook. The dataset contains 2263 news articles and 1.6 million comments discussing news content.
 
-[FacebookHoax]([https://github.com/gabll/some-like-it-hoax](https://github.com/gabll/some-like-it-hoax)):
+[FacebookHoax](https://github.com/gabll/some-like-it-hoax):
 This dataset comprises information related to posts from the facebook pages related to scientific news (non- hoax) and conspiracy pages (hoax) collected using Facebook Graph API. The dataset contains 15,500 posts from 32 pages (14 conspiracy and 18 scientific) with more than 2,300,000 likes.
 
-[FakeNewsNet]([https://github.com/KaiDMML/FakeNewsNet/](https://github.com/KaiDMML/FakeNewsNet/)):
+[FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet/):
 This dataset comprises fake and real news pieces collected from fact-checking websites PolitiFact and GossipCop. It contains news articles content, tweets related to news articles and their social engagements including replies, retweets, and favorites. In total dataset contains nearly 2 million tweets related to fake and real news pieces along with their engagements and user profiles of users interacted with these tweets.
 
 
