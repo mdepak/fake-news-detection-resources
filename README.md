@@ -41,9 +41,9 @@ This dataset comprises fake and real news pieces collected from fact-checking we
 
 ### Software
 
- - [**Hoaxy**]([https://hoaxy.iuni.iu.edu/](https://hoaxy.iuni.iu.edu/)):
+ - [**Hoaxy**](https://hoaxy.iuni.iu.edu/): 
 
- - [**FakeNewsTracker**](http://blogtrackers.fulton.asu.edu:3000/):
+ - [**FakeNewsTracker**](http://blogtrackers.fulton.asu.edu:3000/): 
  
  - [**Grover**](https://grover.allenai.org/):
   
@@ -53,9 +53,9 @@ This dataset comprises fake and real news pieces collected from fact-checking we
  
   - [**Claim buster**](https://idir-server2.uta.edu/claimbuster/):
  
- -  [**Open Mind**]([https://openmind.press/](https://openmind.press/)): Open Mind is a Google Chrome extension designed to combat the proliferation of fake news, and increase exposure to opposing viewpoints. It warns users of websites known to publish fake news by providing the user with a large warning screen and links to more reputable sources.
+ -  [**Open Mind**](https://openmind.press/)): Open Mind is a Google Chrome extension designed to combat the proliferation of fake news, and increase exposure to opposing viewpoints. It warns users of websites known to publish fake news by providing the user with a large warning screen and links to more reputable sources.
  
-- [**Media Bias Fact Check**]([https://chrome.google.com/webstore/detail/official-media-bias-fact/hdcpibgmmcnpjmmenengjgkkfohahegk?hl=en-US](https://chrome.google.com/webstore/detail/official-media-bias-fact/hdcpibgmmcnpjmmenengjgkkfohahegk?hl=en-US)):
+- [**Media Bias Fact Check**](https://chrome.google.com/webstore/detail/official-media-bias-fact/hdcpibgmmcnpjmmenengjgkkfohahegk?hl=en-US):
 This extension shows an icon denoting the political bias for the current page.This extension will display a color-coded icon denoting the bias of the page you are currently viewing, according to Media Bias/Fact Check.
 
  
@@ -66,10 +66,10 @@ This extension shows an icon denoting the political bias for the current page.Th
  
 #### Educative tools:
 
- -  [**Fakey**]([https://fakey.iuni.iu.edu/](https://fakey.iuni.iu.edu/)): This game aims to teach media literacy and study how people interact with misinformation.
+ -  [**Fakey**](https://fakey.iuni.iu.edu/): This game aims to teach media literacy and study how people interact with misinformation.
  
  -   [**FACTITIOUS**](http://factitious2017.augamestudio.com/#/): The game presents news articles which have been fact-checked by independent fact-checking organizations and challenges players to differentiate news from entertainment from opinion.
 
- -   [**Fake It To Make It**](https://www.fakeittomakeitgame.com/): This game takes significantly longer than the games above (1+ hours), but it puts you right into the mindset of someone who is manipulating social media purely for profit.
+ -   [**Fake It To Make It**](https://www.fakeittomakeitgame.com/): This game takes significantly longer than an hour, but it puts you right into the mindset of someone who is manipulating social media purely for profit.
 
- -   [**Bad News**](https://getbadnews.com/#intro): A game that puts you in charge of a fake news publication. You will learn about what goes into successful bad news and how people manipulate it for their benefit. It takes ten or fifteen minutes and might leave you wanting to play it again.
+-   [**Bad News**](https://getbadnews.com/#intro): A game that puts you in charge of a fake news publication. You will learn about what goes into successful bad news and how people manipulate it for their benefit. It takes ten or fifteen minutes and might leave you wanting to play it again.
