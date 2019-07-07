@@ -1,6 +1,6 @@
 # Fake News Detection - Resources
 
-This is a complementary list of resources for the book [Detecting Fake News on Social Media](https://www.morganclaypool.com/doi/abs/10.2200/S00926ED1V01Y201906DMK018). 
+This is a complementary list of resources for the book [Detecting Fake News on Social Media](https://www.morganclaypool.com/doi/abs/10.2200/S00926ED1V01Y201906DMK018), Morgan \& Claypool Publishers. 
 
 ### Datasets
 
