@@ -71,3 +71,9 @@ This extension shows an icon denoting the political bias for the current page.Th
  -   [**Fake It To Make It**](https://www.fakeittomakeitgame.com/): This game takes significantly longer than an hour, but it puts you right into the mindset of someone who is manipulating social media purely for profit.
 
 -   [**Bad News**](https://getbadnews.com/#intro): This game  puts you in charge of a fake news publication. You will learn about what goes into successful bad news and how people manipulate it for their benefit.
+
+
+
+### Contributing
+
+Please feel free to send me [pull requests](https://github.com/mdepak/fake-news-detection-resources/pulls) or email ([dmahudes@asu.edu](mailto:dmahudes@asu.edu)) / ([kai.shu@asu.edu](mailto:kai.shu@asu.edu)) to add resources.
