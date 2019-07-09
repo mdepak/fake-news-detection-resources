@@ -43,35 +43,31 @@ This dataset comprises fake and real news pieces collected from fact-checking we
 
 ### Software
 
- - [**Hoaxy**](https://hoaxy.iuni.iu.edu/): 
+ - [**Hoaxy**](https://hoaxy.iuni.iu.edu/): This tool aims to build a uniform and extensible platform to collect and track misinformation and fact-checking , with visualization techniques to understand the misinformation propagation on social media.
 
- - [**FakeNewsTracker**](http://blogtrackers.fulton.asu.edu:3000/): 
+ - [**FakeNewsTracker**](http://blogtrackers.fulton.asu.edu:3000/):  FakeNewsTracker is a system for fake news data collection, detection, and visualization on social media. It makes use of news articles and social media data to detect fake news. This tool also visualizes misinformation propagation on social media.
  
- - [**Grover**](https://grover.allenai.org/):
+ - [**Grover**](https://grover.allenai.org/):  Grover makes uses of adversarially generated fake news towards targeted content to train the models and detect fake news. This software generates fake news on the user provided topic and generates fake news and also detects fake news based on the contents of the news articles.
   
- - [**dEFEND**](http://fooweb-env.qnmbmwmxj3.us-east-2.elasticbeanstalk.com/):
+ - [**dEFEND**](http://fooweb-env.qnmbmwmxj3.us-east-2.elasticbeanstalk.com/): This is an explainable fake news detection tool which can exploit both news contents and user comments to jointly capture explainable top-k check-worthy sentences and user comments for fake news detection.
 
- - [**NewsVerify**](http://www.newsverify.com/NewsVerifyPro/):
+ - [**NewsVerify**](http://www.newsverify.com/NewsVerifyPro/):  NewsVerify is a real-time news verication system which can detect the credibility of an event by providing some keywords about it.
  
-  - [**Claim buster**](https://idir-server2.uta.edu/claimbuster/):
+ - [**BS Detector**](https://gitlab.com/bs-detector/bs-detector): BS Detector is a chrome extension that easily identifies fake and satirical news sites, as well as other questionable news sources. It adds a warning label to the top of questionable sites as well as link warnings on Facebook and Twitter.
  
- -  [**Open Mind**](https://openmind.press/)): Open Mind is a Google Chrome extension designed to combat the proliferation of fake news, and increase exposure to opposing viewpoints. It warns users of websites known to publish fake news by providing the user with a large warning screen and links to more reputable sources.
+ -  [**Open Mind**](https://openmind.press/): Open Mind is a Google Chrome extension designed to combat the proliferation of fake news, and increase exposure to opposing viewpoints. It warns users of websites known to publish fake news by providing the user with a large warning screen and links to more reputable sources.
  
 - [**Media Bias Fact Check**](https://chrome.google.com/webstore/detail/official-media-bias-fact/hdcpibgmmcnpjmmenengjgkkfohahegk?hl=en-US):
 This extension shows an icon denoting the political bias for the current page.This extension will display a color-coded icon denoting the bias of the page you are currently viewing, according to Media Bias/Fact Check.
 
+ - [**News Guard**](https://www.newsguardtech.com/): NewsGuard is a chrome extension that uses red/green ratings and labels to help users know which news and information websites to trust.
  
- - [**News Guard**](https://www.newsguardtech.com/): NewsGuard is a chrome extension that uses red/green ratings and labels to help users know which news and information websites to trust. 
-
-- [**BS Detector**](https://gitlab.com/bs-detector/bs-detector): BS Detector is a chrome extension that easily identifies fake and satirical news sites, as well as other questionable news sources. It adds a warning label to the top of questionable sites as well as link warnings on Facebook and Twitter.
-
- 
-#### Educative tools:
+#### Educative Games:
 
  -  [**Fakey**](https://fakey.iuni.iu.edu/): This game aims to teach media literacy and study how people interact with misinformation.
  
- -   [**FACTITIOUS**](http://factitious2017.augamestudio.com/#/): The game presents news articles which have been fact-checked by independent fact-checking organizations and challenges players to differentiate news from entertainment from opinion.
+ -   [**FACTITIOUS**](http://factitious2017.augamestudio.com/#/): This game presents news articles which have been fact-checked by independent fact-checking organizations and challenges players to differentiate news from entertainment from opinion.
 
  -   [**Fake It To Make It**](https://www.fakeittomakeitgame.com/): This game takes significantly longer than an hour, but it puts you right into the mindset of someone who is manipulating social media purely for profit.
 
--   [**Bad News**](https://getbadnews.com/#intro): A game that puts you in charge of a fake news publication. You will learn about what goes into successful bad news and how people manipulate it for their benefit. It takes ten or fifteen minutes and might leave you wanting to play it again.
+-   [**Bad News**](https://getbadnews.com/#intro): This game  puts you in charge of a fake news publication. You will learn about what goes into successful bad news and how people manipulate it for their benefit.
