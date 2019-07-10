@@ -1,5 +1,6 @@
 
 
+
 # Fake News Detection - Resources
 
 This is a complementary list of resources for the book [Detecting Fake News on Social Media](https://www.morganclaypool.com/doi/abs/10.2200/S00926ED1V01Y201906DMK018), Morgan \& Claypool Publishers. 
@@ -73,7 +74,17 @@ This extension shows an icon denoting the political bias for the current page.Th
 -   [**Bad News**](https://getbadnews.com/#intro): This game  puts you in charge of a fake news publication. You will learn about what goes into successful bad news and how people manipulate it for their benefit.
 
 
+###  Related Events
+ - [Fake News Challenge]([http://www.fakenewschallenge.org/](http://www.fakenewschallenge.org/))
+ - [WSDM Fake News Classification Competition]([https://www.kaggle.com/c/fake-news-pair-classification-challenge/](https://www.kaggle.com/c/fake-news-pair-classification-challenge/))
+ - [SBP-BRiMS Disinformation Challenge]([http://sbp-brims.org/2019/challenge/challenge2_Disinformation.html](http://sbp-brims.org/2019/challenge/challenge2_Disinformation.html))
+ - [KDD'19, WSDM'19 - Fundamental Theories, Detection Strategies & Open Problems]([https://www.fake-news-tutorial.com/](https://www.fake-news-tutorial.com/))
+ - [AAAI'18 - Computational Solutions against Fake News: AI vs. DB Approaches]([https://john.cs.olemiss.edu/~nhassan/file/aaai2018tutorial.html](https://john.cs.olemiss.edu/~nhassan/file/aaai2018tutorial.html))
+- [ICDM'17 -Mining Misinformation in Social Media:  
+Understanding Its Rampant Spread, Harm, and Intervention]([http://www.public.asu.edu/~liangwu1/ICDM17MisinformationTutorial.html](http://www.public.asu.edu/~liangwu1/ICDM17MisinformationTutorial.html))
+
 
 ### Contributing
+
 
 Please feel free to send me [pull requests](https://github.com/mdepak/fake-news-detection-resources/pulls) or email ([dmahudes@asu.edu](mailto:dmahudes@asu.edu)) / ([kai.shu@asu.edu](mailto:kai.shu@asu.edu)) to add resources.
