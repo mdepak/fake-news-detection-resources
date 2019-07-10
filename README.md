@@ -75,13 +75,13 @@ This extension shows an icon denoting the political bias for the current page.Th
 
 
 ###  Related Events
- - [Fake News Challenge]([http://www.fakenewschallenge.org/](http://www.fakenewschallenge.org/))
- - [WSDM Fake News Classification Competition]([https://www.kaggle.com/c/fake-news-pair-classification-challenge/](https://www.kaggle.com/c/fake-news-pair-classification-challenge/))
- - [SBP-BRiMS Disinformation Challenge]([http://sbp-brims.org/2019/challenge/challenge2_Disinformation.html](http://sbp-brims.org/2019/challenge/challenge2_Disinformation.html))
- - [KDD'19, WSDM'19 - Fundamental Theories, Detection Strategies & Open Problems]([https://www.fake-news-tutorial.com/](https://www.fake-news-tutorial.com/))
- - [AAAI'18 - Computational Solutions against Fake News: AI vs. DB Approaches]([https://john.cs.olemiss.edu/~nhassan/file/aaai2018tutorial.html](https://john.cs.olemiss.edu/~nhassan/file/aaai2018tutorial.html))
+ - [Fake News Challenge](http://www.fakenewschallenge.org/)
+ - [WSDM Fake News Classification Competition](https://www.kaggle.com/c/fake-news-pair-classification-challenge/)
+ - [SBP-BRiMS Disinformation Challenge](http://sbp-brims.org/2019/challenge/challenge2_Disinformation.html)
+ - [KDD'19, WSDM'19 - Fundamental Theories, Detection Strategies & Open Problems](https://www.fake-news-tutorial.com/)
+ - [AAAI'18 - Computational Solutions against Fake News: AI vs. DB Approaches](https://john.cs.olemiss.edu/~nhassan/file/aaai2018tutorial.html)
 - [ICDM'17 -Mining Misinformation in Social Media:  
-Understanding Its Rampant Spread, Harm, and Intervention]([http://www.public.asu.edu/~liangwu1/ICDM17MisinformationTutorial.html](http://www.public.asu.edu/~liangwu1/ICDM17MisinformationTutorial.html))
+Understanding Its Rampant Spread, Harm, and Intervention](http://www.public.asu.edu/~liangwu1/ICDM17MisinformationTutorial.html)
 
 
 ### Contributing
